@@ -29,7 +29,7 @@ const Navbar = ({ title = "NeXtAPP" }) => {
           {/* RIGHT + HAMBURGER */}
           <div className="ml-auto flex items-center space-x-3">
             <button className="hidden md:inline-block px-4 py-2 bg-blue-600 text-white rounded-lg font-medium hover:bg-blue-700">
-              Get Started
+             Contribute
             </button>
 
             {/* Checkbox Hack */}
@@ -52,7 +52,7 @@ const Navbar = ({ title = "NeXtAPP" }) => {
           <NavLink><p  className="block px-3 py-2 rounded-md text-gray-700 hover:bg-gray-100">Installation</p></NavLink>
           <div className="pt-2">
             <button className="w-full px-4 py-2 bg-blue-600 text-white rounded-md font-medium hover:bg-blue-700">
-              Get Started
+             Contribute
             </button>
           </div>
         </div>
