@@ -1,0 +1,365 @@
+[
+  {
+    "image": "https://source.unsplash.com/random/400x400?app1",
+    "title": "Task Manager Pro",
+    "companyName": "NextGen Apps",
+    "id": 1,
+    "description": "An advanced productivity and task scheduling tool.",
+    "size": 45,
+    "reviews": 1200,
+    "ratingAvg": 4.5,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 50 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 540 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app2",
+    "title": "Fitness Tracker",
+    "companyName": "HealthSync",
+    "id": 2,
+    "description": "Track your health, workouts, and daily progress.",
+    "size": 38,
+    "reviews": 980,
+    "ratingAvg": 4.2,
+    "downloads": 210000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 350 },
+      { "name": "5 star", "count": 320 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app3",
+    "title": "Photo Editor Max",
+    "companyName": "PixWave Studio",
+    "id": 3,
+    "description": "Professional photo editing with filters and AI tools.",
+    "size": 60,
+    "reviews": 3000,
+    "ratingAvg": 4.7,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1550 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app4",
+    "title": "Language Learner",
+    "companyName": "EduWorld",
+    "id": 4,
+    "description": "Learn new languages with interactive lessons.",
+    "size": 55,
+    "reviews": 1450,
+    "ratingAvg": 4.4,
+    "downloads": 340000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 480 },
+      { "name": "5 star", "count": 570 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app5",
+    "title": "Music Player X",
+    "companyName": "BeatFlow",
+    "id": 5,
+    "description": "A modern music player with equalizer and playlists.",
+    "size": 35,
+    "reviews": 850,
+    "ratingAvg": 4.1,
+    "downloads": 180000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 210 },
+      { "name": "4 star", "count": 300 },
+      { "name": "5 star", "count": 230 }
+    ]
+  },
+
+  {
+    "image": "https://source.unsplash.com/random/400x400?app6",
+    "title": "Weather Live",
+    "companyName": "SkyCast",
+    "id": 6,
+    "description": "Real-time weather updates and forecasts.",
+    "size": 28,
+    "reviews": 1900,
+    "ratingAvg": 4.6,
+    "downloads": 600000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 850 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app7",
+    "title": "NotePad Ultra",
+    "companyName": "WriteSoft",
+    "id": 7,
+    "description": "Simple and fast note-taking application.",
+    "size": 20,
+    "reviews": 650,
+    "ratingAvg": 4.0,
+    "downloads": 120000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 180 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 140 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app8",
+    "title": "Expense Tracker",
+    "companyName": "MoneyWise",
+    "id": 8,
+    "description": "Track daily expenses and manage your budget.",
+    "size": 33,
+    "reviews": 2100,
+    "ratingAvg": 4.3,
+    "downloads": 380000,
+    "ratings": [
+      { "name": "1 star", "count": 80 },
+      { "name": "2 star", "count": 120 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 700 },
+      { "name": "5 star", "count": 850 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app9",
+    "title": "Map Navigator",
+    "companyName": "GeoTrack",
+    "id": 9,
+    "description": "GPS navigation with offline maps.",
+    "size": 65,
+    "reviews": 3200,
+    "ratingAvg": 4.5,
+    "downloads": 900000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 160 },
+      { "name": "3 star", "count": 420 },
+      { "name": "4 star", "count": 1000 },
+      { "name": "5 star", "count": 1500 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app10",
+    "title": "Recipe Master",
+    "companyName": "FoodCraft",
+    "id": 10,
+    "description": "Discover recipes and step-by-step cooking guides.",
+    "size": 52,
+    "reviews": 1400,
+    "ratingAvg": 4.3,
+    "downloads": 260000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 90 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 450 },
+      { "name": "5 star", "count": 540 }
+    ]
+  },
+
+  {
+    "image": "https://source.unsplash.com/random/400x400?app11",
+    "title": "Travel Guide",
+    "companyName": "GoWorld",
+    "id": 11,
+    "description": "Travel tips, top destinations, and bookings.",
+    "size": 49,
+    "reviews": 1700,
+    "ratingAvg": 4.4,
+    "downloads": 310000,
+    "ratings": [
+      { "name": "1 star", "count": 70 },
+      { "name": "2 star", "count": 100 },
+      { "name": "3 star", "count": 290 },
+      { "name": "4 star", "count": 500 },
+      { "name": "5 star", "count": 740 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app12",
+    "title": "Meditation App",
+    "companyName": "CalmNest",
+    "id": 12,
+    "description": "Relaxation sounds and guided meditation.",
+    "size": 31,
+    "reviews": 1300,
+    "ratingAvg": 4.6,
+    "downloads": 250000,
+    "ratings": [
+      { "name": "1 star", "count": 40 },
+      { "name": "2 star", "count": 70 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 400 },
+      { "name": "5 star", "count": 590 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app13",
+    "title": "E-Book Reader",
+    "companyName": "ReadOcean",
+    "id": 13,
+    "description": "Read ebooks with customizable themes.",
+    "size": 40,
+    "reviews": 900,
+    "ratingAvg": 4.2,
+    "downloads": 190000,
+    "ratings": [
+      { "name": "1 star", "count": 30 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 320 },
+      { "name": "5 star", "count": 270 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app14",
+    "title": "NewsHub",
+    "companyName": "InfoStream",
+    "id": 14,
+    "description": "Trending news and personalized feeds.",
+    "size": 36,
+    "reviews": 2600,
+    "ratingAvg": 4.3,
+    "downloads": 400000,
+    "ratings": [
+      { "name": "1 star", "count": 120 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 350 },
+      { "name": "4 star", "count": 900 },
+      { "name": "5 star", "count": 1080 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app15",
+    "title": "AI Chat Assistant",
+    "companyName": "TechHive",
+    "id": 15,
+    "description": "Smart AI assistant for productivity.",
+    "size": 70,
+    "reviews": 5000,
+    "ratingAvg": 4.8,
+    "downloads": 1200000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 150 },
+      { "name": "3 star", "count": 300 },
+      { "name": "4 star", "count": 1200 },
+      { "name": "5 star", "count": 3250 }
+    ]
+  },
+
+  {
+    "image": "https://source.unsplash.com/random/400x400?app16",
+    "title": "Shopping Deals",
+    "companyName": "ShopNow",
+    "id": 16,
+    "description": "Find discounts and deals instantly.",
+    "size": 48,
+    "reviews": 1800,
+    "ratingAvg": 4.1,
+    "downloads": 270000,
+    "ratings": [
+      { "name": "1 star", "count": 90 },
+      { "name": "2 star", "count": 110 },
+      { "name": "3 star", "count": 270 },
+      { "name": "4 star", "count": 600 },
+      { "name": "5 star", "count": 730 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app17",
+    "title": "Movie Box",
+    "companyName": "CineWorld",
+    "id": 17,
+    "description": "Discover new movies and ratings.",
+    "size": 59,
+    "reviews": 2300,
+    "ratingAvg": 4.4,
+    "downloads": 500000,
+    "ratings": [
+      { "name": "1 star", "count": 100 },
+      { "name": "2 star", "count": 130 },
+      { "name": "3 star", "count": 340 },
+      { "name": "4 star", "count": 800 },
+      { "name": "5 star", "count": 930 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app18",
+    "title": "Stock Watch",
+    "companyName": "FinTech Pro",
+    "id": 18,
+    "description": "Live stock prices and financial analytics.",
+    "size": 62,
+    "reviews": 1750,
+    "ratingAvg": 4.5,
+    "downloads": 420000,
+    "ratings": [
+      { "name": "1 star", "count": 60 },
+      { "name": "2 star", "count": 80 },
+      { "name": "3 star", "count": 260 },
+      { "name": "4 star", "count": 620 },
+      { "name": "5 star", "count": 730 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app19",
+    "title": "File Manager HD",
+    "companyName": "SysTools",
+    "id": 19,
+    "description": "Smart file organizer and cleaner.",
+    "size": 27,
+    "reviews": 900,
+    "ratingAvg": 4.0,
+    "downloads": 150000,
+    "ratings": [
+      { "name": "1 star", "count": 50 },
+      { "name": "2 star", "count": 60 },
+      { "name": "3 star", "count": 200 },
+      { "name": "4 star", "count": 310 },
+      { "name": "5 star", "count": 280 }
+    ]
+  },
+  {
+    "image": "https://source.unsplash.com/random/400x400?app20",
+    "title": "QR Scanner Pro",
+    "companyName": "ScanTools",
+    "id": 20,
+    "description": "Fast QR and barcode scanner.",
+    "size": 18,
+    "reviews": 600,
+    "ratingAvg": 4.1,
+    "downloads": 80000,
+    "ratings": [
+      { "name": "1 star", "count": 20 },
+      { "name": "2 star", "count": 40 },
+      { "name": "3 star", "count": 120 },
+      { "name": "4 star", "count": 200 },
+      { "name": "5 star", "count": 220 }
+    ]
+  }
+]
