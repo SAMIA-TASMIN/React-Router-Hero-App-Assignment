@@ -1,10 +1,10 @@
 [
   {
-    "image": "https://source.unsplash.com/random/400x400?app1",
+    "image": "",
     "title": "Task Manager Pro",
     "companyName": "NextGen Apps",
     "id": 1,
-    "description": "An advanced productivity and task scheduling tool.",
+    "description": "Task Manager Pro is your ultimate productivity hub. It offers an advanced suite of features for task scheduling, project management, and team collaboration. Utilize Gantt charts, priority settings, and recurring task automation to streamline your workflow and ensure no deadline is ever missed. Perfect for both individuals and small business teams.",
     "size": 45,
     "reviews": 1200,
     "ratingAvg": 4.5,
@@ -18,11 +18,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app2",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b231b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxmaXRuZXNzJTIwdHJhY2tlciUyMGFwcHxlbnwwfDB8fHwxNjQ3NDMxMTAw&ixlib=rb-1.2.1&q=80&w=400",
     "title": "Fitness Tracker",
     "companyName": "HealthSync",
     "id": 2,
-    "description": "Track your health, workouts, and daily progress.",
+    "description": "Achieve your health goals with Fitness Tracker. This comprehensive app monitors your workouts, tracks steps, measures heart rate, and logs daily calorie intake. Get personalized workout plans, track your sleep patterns, and visualize your progress with easy-to-read charts. It syncs seamlessly with all major wearable devices.",
     "size": 38,
     "reviews": 980,
     "ratingAvg": 4.2,
@@ -36,11 +36,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app3",
+    "image": "https://images.unsplash.com/photo-1522047535544-d853b6526e85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHBob3RvJTIwZWRpdGluZyUyMG1vYmlsZSUyMGFwcHxlbnwwfDB8fHwxNjQ3NDMxMTUy&ixlib=rb-1.2.1&q=80&w=400",
     "title": "Photo Editor Max",
     "companyName": "PixWave Studio",
     "id": 3,
-    "description": "Professional photo editing with filters and AI tools.",
+    "description": "Unleash your creativity with Photo Editor Max. It provides professional-grade editing tools, including advanced filters, precise color correction, and AI-powered object removal. Edit RAW files, create stunning collages, and use a vast library of artistic effects to transform your photos into masterpieces. Supports layers and non-destructive editing.",
     "size": 60,
     "reviews": 3000,
     "ratingAvg": 4.7,
@@ -54,11 +54,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app4",
+    "image": "https://images.unsplash.com/photo-1546410531-bb432f778d9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxhcHAlMjBsYW5ndWFnZSUyMGxlYXJuaW5nfGVufDB8MHx8fDE2NDc0MzEyMDY&ixlib=rb-1.2.1&q=80&w=400",
     "title": "Language Learner",
     "companyName": "EduWorld",
     "id": 4,
-    "description": "Learn new languages with interactive lessons.",
+    "description": "Master a new language efficiently with Language Learner. Our app features interactive lessons, speech recognition for perfect pronunciation, and engaging vocabulary games. Choose from over 30 languages, practice with native speaker dialogues, and track your fluency level as you progress through beginner to advanced modules.",
     "size": 55,
     "reviews": 1450,
     "ratingAvg": 4.4,
@@ -72,11 +72,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app5",
+    "image": "https://images.unsplash.com/photo-1507525428034-b73a38ce3243?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHhtb3ZpZSUyMGJveHxlbnwwfDB8fHwxNjQ3NDMxMjM2&ixlib=rb-1.2.1&q=80&w=400",
     "title": "Music Player X",
     "companyName": "BeatFlow",
     "id": 5,
-    "description": "A modern music player with equalizer and playlists.",
+    "description": "Experience music like never before with Music Player X. This modern player supports all major audio formats and features a powerful 10-band graphic equalizer with pre-sets. Organize your library with smart playlists, enjoy gapless playback, and customize the interface with beautiful themes. Streamline your listening experience.",
     "size": 35,
     "reviews": 850,
     "ratingAvg": 4.1,
@@ -89,13 +89,12 @@
       { "name": "5 star", "count": 230 }
     ]
   },
-
   {
-    "image": "https://source.unsplash.com/random/400x400?app6",
+    "image": "https://images.unsplash.com/photo-1522883307523-d345c26900dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHx3ZWF0aGVyJTIwYXBwfGVufDB8MHx8fDE2NDc0MzEyNTk&ixlib=rb-1.2.1&q=80&w=400",
     "title": "Weather Live",
     "companyName": "SkyCast",
     "id": 6,
-    "description": "Real-time weather updates and forecasts.",
+    "description": "Get hyper-local and real-time weather updates with Weather Live. Enjoy accurate 14-day forecasts, detailed hourly breakdowns, and severe weather alerts. Features include animated radar maps, wind speed, UV index, and humidity readings. The beautiful, dynamic interface changes to reflect current conditions.",
     "size": 28,
     "reviews": 1900,
     "ratingAvg": 4.6,
@@ -109,11 +108,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app7",
+    "image": "https://images.unsplash.com/photo-1517849156717-3d12224d06a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxub3RlcGFkfGVufDB8MHx8fDE2NDc0MzEyODQ&ixlib=rb-1.2.1&q=80&w=400",
     "title": "NotePad Ultra",
     "companyName": "WriteSoft",
     "id": 7,
-    "description": "Simple and fast note-taking application.",
+    "description": "NotePad Ultra is the simplest and fastest way to capture your thoughts. It supports rich text formatting, secure cloud syncing, and features an intuitive tag and folder system for organization. Use voice-to-text input, protect sensitive notes with a PIN, and choose from multiple viewing modes, including a dark theme.",
     "size": 20,
     "reviews": 650,
     "ratingAvg": 4.0,
@@ -127,11 +126,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app8",
+    "image": "https://images.unsplash.com/photo-1544078716-419b70b5ee68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHBleGVuc2UlMjB0cmFja2VyJTIwYXBwfGVufDB8MHx8fDE2NDc0MzEzMDk&ixlib=rb-1.2.1&q=80&w=400",
     "title": "Expense Tracker",
     "companyName": "MoneyWise",
     "id": 8,
-    "description": "Track daily expenses and manage your budget.",
+    "description": "Take control of your finances with Expense Tracker. Easily log daily expenses, categorize transactions, and set monthly budgets to achieve financial freedom. The app generates detailed reports, visualizes spending habits, and supports multiple currencies. Get smart alerts to prevent overspending and stay on track with savings goals.",
     "size": 33,
     "reviews": 2100,
     "ratingAvg": 4.3,
@@ -145,11 +144,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app9",
+    "image": "https://images.unsplash.com/photo-1440763943362-ec104193537b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHhtb2JpbGUlMjBtYXBzfGVufDB8MHx8fDE2NDc0MzEzNTg&ixlib=rb-1.2.1&q=80&w=400",
     "title": "Map Navigator",
     "companyName": "GeoTrack",
     "id": 9,
-    "description": "GPS navigation with offline maps.",
+    "description": "Map Navigator provides reliable GPS navigation with turn-by-turn voice guidance and real-time traffic updates. Download high-quality offline maps for use without an internet connection. Discover points of interest, plan multi-stop routes, and enjoy accurate estimates for driving, walking, and public transit.",
     "size": 65,
     "reviews": 3200,
     "ratingAvg": 4.5,
@@ -163,11 +162,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app10",
+    "image": "https://images.unsplash.com/photo-1542385108-16c68e1694f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxyZWNpcGUlMjBhcHBzfGVufDB8MHx8fDE2NDc0MzEzODU&ixlib=rb-1.2.1&q=80&w=400",
     "title": "Recipe Master",
     "companyName": "FoodCraft",
     "id": 10,
-    "description": "Discover recipes and step-by-step cooking guides.",
+    "description": "Turn your kitchen into a culinary haven with Recipe Master. Browse thousands of recipes from around the world, complete with step-by-step cooking guides, video tutorials, and user reviews. Features include meal planning, an intelligent ingredient substitution tool, and a voice-guided cooking mode. Save your favorites and share your own creations!",
     "size": 52,
     "reviews": 1400,
     "ratingAvg": 4.3,
@@ -180,13 +179,12 @@
       { "name": "5 star", "count": 540 }
     ]
   },
-
   {
-    "image": "https://source.unsplash.com/random/400x400?app11",
+    "image": "https://images.unsplash.com/photo-1520263158019-974244f7756f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBndWlkZSUyMGFwcHxlbnwwfDB8fHwxNjQ3NDMxNDE0&ixlib=rb-1.2.1&q=80&w=400",
     "title": "Travel Guide",
     "companyName": "GoWorld",
     "id": 11,
-    "description": "Travel tips, top destinations, and bookings.",
+    "description": "Explore the world with Travel Guide, your all-in-one travel companion. Discover top destinations, read insider tips, and find the best deals on flights and hotels. Create personalized itineraries, access offline maps and currency converters, and get recommendations for local dining and attractions based on your preferences.",
     "size": 49,
     "reviews": 1700,
     "ratingAvg": 4.4,
@@ -200,11 +198,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app12",
+    "image": "https://images.unsplash.com/photo-1502691873136-22a44f77c357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxtZWRpdGF0aW9uJTIwYXBwfGVufDB8MHx8fDE2NDc0MzE0MzY&ixlib=rb-1.2.1&q=80&w=400",
     "title": "Meditation App",
     "companyName": "CalmNest",
     "id": 12,
-    "description": "Relaxation sounds and guided meditation.",
+    "description": "Find your inner peace with the Meditation App. Access hundreds of guided meditations for sleep, stress, and focus, led by expert instructors. Enjoy a library of relaxing soundscapes, ambient music, and bedtime stories to help you unwind and improve your mental well-being. Track your meditation consistency and mood.",
     "size": 31,
     "reviews": 1300,
     "ratingAvg": 4.6,
@@ -218,11 +216,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app13",
+    "image": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxlYm9vayUyMHJlYWRlcnxlbnwwfDB8fHwxNjQ3NDMxNDYx&ixlib=rb-1.2.1&q=80&w=400",
     "title": "E-Book Reader",
     "companyName": "ReadOcean",
     "id": 13,
-    "description": "Read ebooks with customizable themes.",
+    "description": "Dive into millions of titles with E-Book Reader. Enjoy a comfortable reading experience with customizable themes, adjustable font sizes, and eye-friendly night mode. It supports all popular e-book formats, allows for easy highlighting and note-taking, and syncs your progress across all devices.",
     "size": 40,
     "reviews": 900,
     "ratingAvg": 4.2,
@@ -236,11 +234,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app14",
+    "image": "https://images.unsplash.com/photo-1585217596043-42e5d6c5478d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxuZXdzJTIwYXBwfGVufDB8MHx8fDE2NDc0MzE0ODc&ixlib=rb-1.2.1&q=80&w=400",
     "title": "NewsHub",
     "companyName": "InfoStream",
     "id": 14,
-    "description": "Trending news and personalized feeds.",
+    "description": "Stay informed with NewsHub, your source for breaking news and personalized feeds from trusted global sources. Customize your feed to follow topics, regions, and journalists that matter to you. Features include a summary mode, offline reading, and video news integration for a comprehensive view of current events.",
     "size": 36,
     "reviews": 2600,
     "ratingAvg": 4.3,
@@ -254,11 +252,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app15",
+    "image": "https://images.unsplash.com/photo-1542831371-29b552636746?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwY2hhdGJvdHxlbnwwfDB8fHwxNjQ3NDMxNTE4&ixlib=rb-1.2.1&q=80&w=400",
     "title": "AI Chat Assistant",
     "companyName": "TechHive",
     "id": 15,
-    "description": "Smart AI assistant for productivity.",
+    "description": "Boost your productivity with the AI Chat Assistant, a smart tool designed for quick research, content generation, and scheduling. Ask complex questions, draft professional emails, generate code snippets, and translate languages instantly. Its advanced natural language processing makes interaction feel seamless and highly efficient.",
     "size": 70,
     "reviews": 5000,
     "ratingAvg": 4.8,
@@ -271,13 +269,12 @@
       { "name": "5 star", "count": 3250 }
     ]
   },
-
   {
-    "image": "https://source.unsplash.com/random/400x400?app16",
+    "image": "https://images.unsplash.com/photo-1537202334810-749e7b399201?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBzaG9wcGluZyUyMGFwcHxlbnwwfDB8fHwxNjQ3NDMxNTM5&ixlib=rb-1.2.1&q=80&w=400",
     "title": "Shopping Deals",
     "companyName": "ShopNow",
     "id": 16,
-    "description": "Find discounts and deals instantly.",
+    "description": "Never miss a bargain with Shopping Deals. This app aggregates the best discounts, coupons, and flash sales from thousands of online stores. Set personalized price alerts, compare prices across retailers, and find instant savings on everything from electronics to fashion. Save money effortlessly with smart shopping tools.",
     "size": 48,
     "reviews": 1800,
     "ratingAvg": 4.1,
@@ -291,11 +288,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app17",
+    "image": "https://images.unsplash.com/photo-1533250917019-33ddb0f0b40e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHhtb3ZpZSUyMGRpc2NvdmVyeXxlbnwwfDB8fHwxNjQ3NDMxNTY1&ixlib=rb-1.2.1&q=80&w=400",
     "title": "Movie Box",
     "companyName": "CineWorld",
     "id": 17,
-    "description": "Discover new movies and ratings.",
+    "description": "Your definitive source for movie and TV show discovery. Movie Box features detailed cast and crew info, user ratings, critical reviews, and trailer previews. Create personalized watchlists, get recommendations based on your viewing history, and find where to stream your favorite titles instantly. Never run out of things to watch.",
     "size": 59,
     "reviews": 2300,
     "ratingAvg": 4.4,
@@ -309,11 +306,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app18",
+    "image": "https://images.unsplash.com/photo-1601594916894-c75c5a713919?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldCUyMGFwcHxlbnwwfDB8fHwxNjQ3NDMxNTk4&ixlib=rb-1.2.1&q=80&w=400",
     "title": "Stock Watch",
     "companyName": "FinTech Pro",
     "id": 18,
-    "description": "Live stock prices and financial analytics.",
+    "description": "Stock Watch delivers real-time stock prices, comprehensive market data, and advanced financial analytics to your mobile device. Monitor your portfolio, set customizable alerts for price changes, and access professional-grade charting tools. Stay ahead of the market with news and analysis from leading financial experts.",
     "size": 62,
     "reviews": 1750,
     "ratingAvg": 4.5,
@@ -327,11 +324,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app19",
+    "image": "https://images.unsplash.com/photo-1549419149-a2e66607e408?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxmaWxlJTIwbWFuYWdlciUyMGFwcHxlbnwwfDB8fHwxNjQ3NDMxNjI2&ixlib=rb-1.2.1&q=80&w=400",
     "title": "File Manager HD",
     "companyName": "SysTools",
     "id": 19,
-    "description": "Smart file organizer and cleaner.",
+    "description": "Efficiently manage all files on your device and cloud storage with File Manager HD. It features smart file categorization, a powerful search function, and an integrated storage analyzer to identify and clear junk files. Easily compress, encrypt, and share files, ensuring your digital life is always organized and secure.",
     "size": 27,
     "reviews": 900,
     "ratingAvg": 4.0,
@@ -345,11 +342,11 @@
     ]
   },
   {
-    "image": "https://source.unsplash.com/random/400x400?app20",
+    "image": "https://images.unsplash.com/photo-1620286300959-b1d6e1f0e42d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxxclyUyMHNjYW5uZXIlMjBhcHBzfGVufDB8MHx8fDE2NDc0MzE2NjE&ixlib=rb-1.2.1&q=80&w=400",
     "title": "QR Scanner Pro",
     "companyName": "ScanTools",
     "id": 20,
-    "description": "Fast QR and barcode scanner.",
+    "description": "QR Scanner Pro is the fastest and most reliable QR and barcode scanner available. Automatically detect and read all types of codes, including URLs, text, contacts, and Wi-Fi information. It features a history log, flashlight support for low-light conditions, and can generate custom QR codes for sharing. Essential for daily use.",
     "size": 18,
     "reviews": 600,
     "ratingAvg": 4.1,
