@@ -16,8 +16,8 @@ const Apps = ({data}) => {
                 data.slice(0,10).map(app=><AppTiles key={app.id} app={app} ></AppTiles>)
             }
             </div>
-            <div  className=" flex justify-center my-1">
-                <Link to={`/allapps`}><button  className="btn btn-info">Show all</button></Link>
+            <div  className=" flex justify-center my-3 ">
+                <Link to={`/allapps`}><button  className="btn bg-gradient-to-r from-purple-500 to-blue-500 text-white">Show all</button></Link>
             </div>
         </div>
     );

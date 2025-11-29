@@ -15,6 +15,8 @@ const AppTiles = ({ app }) => {
     title, } = app;
   return (
     <Link to={`/app/${id}`}>
+
+      
       <div className="w-75 my-2 bg-white rounded-xl shadow-md p-3">
      
         <div className="w-full h-40 bg-gray-300 rounded-lg mb-3 flex items-center justify-center">
