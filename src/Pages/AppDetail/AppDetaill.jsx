@@ -1,6 +1,19 @@
-import React from "react";
+import React, { useState, useEffect } from "react";
 import { useLoaderData, useParams } from "react-router";
-import { BarChart, Bar, Rectangle, XAxis, YAxis, CartesianGrid, Tooltip, Legend } from 'recharts';
+import {
+  BarChart,
+  Bar,
+  Rectangle,
+  XAxis,
+  YAxis,
+  CartesianGrid,
+  Tooltip,
+  Legend,
+} from "recharts";
+import { addToStoreDb, getStoredApps, removeFromStoreDb } from "../../utility/addToDB";
+import { toast, ToastContainer } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
+
 const AppDetaill = () => {
   const { appId } = useParams();
   const appid = parseInt(appId);
@@ -19,32 +32,56 @@ const AppDetaill = () => {
     title,
   } = singleData;
   const data = ratings;
-  console.log(data);
+
+ 
+  const [isInstalled, setIsInstalled] = useState(false);
+
+
+  useEffect(() => {
+    const storedApps = getStoredApps();
+    setIsInstalled(storedApps.includes(id));
+  }, [id]);
+
+
+  const handleApp = () => {
+    if (isInstalled) {
+      
+      removeFromStoreDb(id);
+      setIsInstalled(false);
+      toast.success("Uninstalled successfully!");
+    } else {
+      
+      const added = addToStoreDb(id);
+      if (added) {
+        setIsInstalled(true);
+        toast.success("Installed successfully!");
+      } else {
+        toast.warning("Already installed!");
+      }
+    }
+  };
 
   return (
     <div className="">
+    
+      <ToastContainer position="top-right" autoClose={2000} />
+      
       <div className="max-w-7xl mx-auto bg-white  rounded-xl p-6 flex flex-col md:flex-row items-center gap-6 ">
-        {/* Left Side App Icon */}
         <div className="w-32 h-32 flex items-center justify-center bg-gray-100 rounded-xl">
           <img src={image} alt="app icon" className="w-20 h-20" />
         </div>
 
-        {/* Right Side Content */}
         <div className="flex-1">
-          {/* App Title */}
-          <h1 className="text-2xl font-bold">
-            {title}
-          </h1>
+          <h1 className="text-2xl font-bold">{title}</h1>
           <p className="text-gray-500 mt-1">
             Developed by :
             <span className="text-blue-500 font-medium cursor-pointer">
-             {companyName}
+              {companyName}
             </span>
           </p>
           <hr className="text-gray-300 my-3" />
-          {/* Stats Section */}
+
           <div className="grid grid-cols-3 gap-6 my-5">
-            {/* Downloads */}
             <div className="flex flex-col items-center">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -58,7 +95,7 @@ const AppDetaill = () => {
               <p className="text-gray-500 text-sm">Downloads</p>
             </div>
 
-            {/* Rating */}
+         
             <div className="flex flex-col items-center">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -72,7 +109,7 @@ const AppDetaill = () => {
               <p className="text-gray-500 text-sm">Average Ratings</p>
             </div>
 
-            {/* Reviews */}
+   
             <div className="flex flex-col items-center">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -87,48 +124,49 @@ const AppDetaill = () => {
             </div>
           </div>
 
-          {/* Install Button */}
-          <button className="px-6 py-3 bg-green-500 text-white font-semibold rounded-lg hover:bg-green-600 transition">
-            Install Now {size} MB
+          <button
+            onClick={handleApp}
+            disabled={isInstalled}
+            className={`px-6 py-3 cursor-pointer ${
+              isInstalled 
+                ? "bg-red-500 hover:bg-red-600 " 
+                : "bg-green-500 hover:bg-green-600"
+            } text-white font-semibold rounded-lg transition`}
+          >
+            {isInstalled ? "Installed" : `Install Now ${size} MB`}
           </button>
         </div>
       </div>
 
-    
-
-    <div className="max-w-7xl mx-auto">
+      <div className="max-w-7xl mx-auto">
         <hr />
         <h1 className="text-2xl font-semibold text-center my-3">Ratings</h1>
-       <BarChart className=" max-w-6xl h-[300px] mx-auto my-9"
-    //     width={500}
-    // height={300}
-    //   style={{ width: '100%', maxWidth: '700px', maxHeight: '70vh', aspectRatio: 1.618 }}
-      responsive
-      data={data}
-     layout="vertical"
-    >
-      <CartesianGrid strokeDasharray="3 3" />
-      <YAxis  type="category" dataKey="name" width={100} />
-      <XAxis type="number"/>
-      
-      <Tooltip />
-      <Legend />
-      <Bar dataKey="count" fill="#8884d8" activeBar={<Rectangle fill="pink" stroke="blue" />} />
-      
-    </BarChart>
-    </div>
+        <BarChart
+          className=" max-w-6xl h-[300px] mx-auto my-9"
+          responsive
+          data={data}
+          layout="vertical"
+        >
+          <CartesianGrid strokeDasharray="3 3" />
+          <YAxis type="category" dataKey="name" width={100} />
+          <XAxis type="number" />
 
+          <Tooltip />
+          <Legend />
+          <Bar
+            dataKey="count"
+            fill="#8884d8"
+            activeBar={<Rectangle fill="pink" stroke="blue" />}
+          />
+        </BarChart>
+      </div>
 
-    <div className="max-w-7xl mx-auto mb-8">
-        <hr className="my-8"/>
+      <div className="max-w-7xl mx-auto mb-8">
+        <hr className="my-8" />
         {description}
-    </div>
-
+      </div>
     </div>
   );
 };
 
 export default AppDetaill;
-
-
-

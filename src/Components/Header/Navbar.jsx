@@ -7,14 +7,14 @@ const Navbar = ({ title = "NeXtAPP" }) => {
         <div className="h-16 flex items-center relative">
 
           {/* LEFT: logo + title */}
-          <div className="flex items-center space-x-3 cursor-pointer">
+          <Link to={'/'}><div className="flex items-center space-x-3 cursor-pointer">
             <img
               src={image}
               alt={title}
               className="w-10 h-10 rounded-full object-cover"
             />
             <span className="font-semibold text-lg text-gray-800">{title}</span>
-          </div>
+          </div></Link>
 
           {/* CENTER */}
           <nav className="hidden md:flex space-x-8 absolute left-1/2 transform -translate-x-1/2">
