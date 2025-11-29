@@ -28,9 +28,11 @@ const Navbar = ({ title = "NeXtAPP" }) => {
 
           {/* RIGHT + HAMBURGER */}
           <div className="ml-auto flex items-center space-x-3">
-            <button className="hidden md:inline-block px-4 py-2 bg-blue-600 text-white rounded-lg font-medium hover:bg-blue-700">
+            <a href="https://github.com/SAMIA-TASMIN" target='_blank'>
+              <button className="hidden md:inline-block px-4 py-2 bg-gradient-to-r from-purple-500 to-blue-500 text-white t rounded-lg font-medium hover:bg-blue-700 cursor-pointer">
              Contribute
             </button>
+            </a>
 
             {/* Checkbox Hack */}
             <label htmlFor="menu-toggle" className="md:hidden cursor-pointer p-2">
@@ -48,8 +50,8 @@ const Navbar = ({ title = "NeXtAPP" }) => {
       <div className="md:hidden bg-white border-t hidden peer-checked:block">
         <div className="px-4 pt-2 pb-4 space-y-2">
           <Link to={`/`}><p  className="block px-3 py-2 rounded-md text-gray-700 hover:bg-gray-100">Home</p></Link>
-         <NavLink> <p  className="block px-3 py-2 rounded-md text-gray-700 hover:bg-gray-100">Apps</p></NavLink>
-          <NavLink><p  className="block px-3 py-2 rounded-md text-gray-700 hover:bg-gray-100">Installation</p></NavLink>
+         <NavLink to="/allapps"> <p  className="block px-3 py-2 rounded-md text-gray-700 hover:bg-gray-100">Apps</p></NavLink>
+          <NavLink to="/installation"><p  className="block px-3 py-2 rounded-md text-gray-700 hover:bg-gray-100">Installation</p></NavLink>
           <div className="pt-2">
             <button className="w-full px-4 py-2 bg-blue-600 text-white rounded-md font-medium hover:bg-blue-700">
              Contribute
@@ -65,8 +67,3 @@ export default Navbar;
 
 
 
-
-
-// export default function ResponsiveNavbar({ image = "/logo.png", title = "MySite" }) {
-
-// }

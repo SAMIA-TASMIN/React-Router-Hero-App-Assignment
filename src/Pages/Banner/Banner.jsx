@@ -17,34 +17,36 @@ const Banner = () => {
           into digital experiences that truly make an impact.
         </p>
 
-        {/* Buttons */}
+        
         <div className="mt-6 flex justify-center gap-4 flex-wrap">
-          <Link
-            to="/play"
+          <a
+            href="https://play.google.com/store/games"
+            target='_blank'
             className="border px-4 py-2 rounded-lg shadow-sm hover:bg-gray-100"
           >
             Google Play
-          </Link>
+          </a>
 
-          <Link
-            to="/appstore"
+          <a
+          target='_blank'
+             href="https://www.apple.com/app-store"
             className="border px-4 py-2 rounded-lg shadow-sm hover:bg-gray-100"
           >
             App Store
-          </Link>
+          </a>
         </div>
 
-        {/* Banner Image */}
+        
         <div className="mt-12 flex justify-center">
           <img
-            src={bannerImage} // 👉 YOUR IMAGE HERE
+            src={bannerImage} 
             alt="App Showcase"
             className="w-full max-w-md md:max-w-xl"
           />
         </div>
       </div>
 
-      {/* Bottom Stats Section */}
+     
       <div className=" bg-gradient-to-r from-purple-500 to-blue-500 text-white py-16">
         <div className="max-w-6xl mx-auto grid md:grid-cols-3 text-center gap-8 px-6">
 
