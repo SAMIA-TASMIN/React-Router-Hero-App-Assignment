@@ -10,25 +10,36 @@ const AllApps = () => {
 
   const filtered = data.filter(app=>  app.title?.toLowerCase().includes(search.toLowerCase()))
  
-
+const handleOnChange =e=>{
+    e.preventDefault();
+    setSearch(e.target.value)
+}
 
   return (
     <div>
-      <div className="text-center flex flex-col items-center justify-center my-4">
+      {
+        filtered.length>0?(<div className="text-center flex flex-col items-center justify-center my-4">
         <h1 className="text-6xl font-bold">Our All Application</h1>
         <p className="max-w-2xl mt-2">
           Explore All Apps on the Market developed by us. We code for Millions
         </p>
-      </div>
-      {/* <div className="flex justify-center mb-6">
+      </div>):("")
+      }
+      
+    <div className="flex justify-between container mx-auto px-5">
+        <p className="text-2xl font-semibold ">({filtered.length}) Data found</p>
+
+        <form >
         <input
           type="text"
+          name="search"
+          defaultValue={search}     
+          onChange={handleOnChange}
           placeholder="Search Application..."
-          className="border px-4 py-2 rounded-md w-64"
-          onChange={(e) => setSearch(e.target.value)}
+          className="border px-4 py-2 rounded-md w-64 shadow"
         />
-      </div> */}
-
+        </form>
+    </div>
      
 
       {
