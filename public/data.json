@@ -1,10 +1,10 @@
 [
   {
-    "image": "",
+    "image": "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=400",
     "title": "Task Manager Pro",
     "companyName": "NextGen Apps",
     "id": 1,
-    "description": "Task Manager Pro is your ultimate productivity hub. It offers an advanced suite of features for task scheduling, project management, and team collaboration. Utilize Gantt charts, priority settings, and recurring task automation to streamline your workflow and ensure no deadline is ever missed. Perfect for both individuals and small business teams.",
+    "description": "Task Manager Pro is your ultimate productivity hub designed for modern professionals and teams. It offers an advanced suite of features for task scheduling, project management, and seamless team collaboration that helps you stay organized and efficient.\n\nUtilize powerful tools like Gantt charts, priority settings, and recurring task automation to streamline your workflow and ensure no deadline is ever missed. The intuitive interface makes complex project management simple and accessible for everyone.\n\nPerfect for both individuals and small business teams, this app integrates with popular calendar services and provides real-time sync across all your devices. Whether you're managing personal tasks or coordinating with a team, Task Manager Pro has everything you need to boost productivity.",
     "size": 45,
     "reviews": 1200,
     "ratingAvg": 4.5,
@@ -18,11 +18,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b231b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxmaXRuZXNzJTIwdHJhY2tlciUyMGFwcHxlbnwwfDB8fHwxNjQ3NDMxMTAw&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1476480862126-209bfaa8edc8?w=400",
     "title": "Fitness Tracker",
     "companyName": "HealthSync",
     "id": 2,
-    "description": "Achieve your health goals with Fitness Tracker. This comprehensive app monitors your workouts, tracks steps, measures heart rate, and logs daily calorie intake. Get personalized workout plans, track your sleep patterns, and visualize your progress with easy-to-read charts. It syncs seamlessly with all major wearable devices.",
+    "description": "Achieve your health goals with Fitness Tracker, the comprehensive wellness companion that monitors every aspect of your fitness journey. This powerful app tracks your workouts, counts steps, measures heart rate, and logs daily calorie intake with precision and ease.\n\nGet personalized workout plans tailored to your fitness level, track your sleep patterns for better rest, and visualize your progress with easy-to-read charts and graphs. The app's intelligent algorithms adapt to your performance and provide actionable insights.\n\nSeamlessly syncs with all major wearable devices including Apple Watch, Fitbit, and Garmin. Whether you're a beginner starting your fitness journey or an athlete tracking performance, Fitness Tracker provides the tools you need to succeed.",
     "size": 38,
     "reviews": 980,
     "ratingAvg": 4.2,
@@ -36,11 +36,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1522047535544-d853b6526e85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHBob3RvJTIwZWRpdGluZyUyMG1vYmlsZSUyMGFwcHxlbnwwfDB8fHwxNjQ3NDMxMTUy&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1542744095-291d1f67b221?w=400",
     "title": "Photo Editor Max",
     "companyName": "PixWave Studio",
     "id": 3,
-    "description": "Unleash your creativity with Photo Editor Max. It provides professional-grade editing tools, including advanced filters, precise color correction, and AI-powered object removal. Edit RAW files, create stunning collages, and use a vast library of artistic effects to transform your photos into masterpieces. Supports layers and non-destructive editing.",
+    "description": "Unleash your creativity with Photo Editor Max, the professional-grade photo editing solution that brings desktop power to your mobile device. It provides advanced editing tools including precise filters, color correction, and AI-powered object removal that rivals industry-standard software.\n\nEdit RAW files with full control, create stunning collages with customizable layouts, and use a vast library of artistic effects to transform your photos into masterpieces. The app supports layers and non-destructive editing, so you can experiment freely without losing your original image.\n\nWhether you're a professional photographer or social media enthusiast, Photo Editor Max offers intuitive controls combined with powerful features. Export in multiple formats and resolutions, and share your creations directly to all major social platforms.",
     "size": 60,
     "reviews": 3000,
     "ratingAvg": 4.7,
@@ -54,11 +54,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1546410531-bb432f778d9b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxhcHAlMjBsYW5ndWFnZSUyMGxlYXJuaW5nfGVufDB8MHx8fDE2NDc0MzEyMDY&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1546410531-bb4caa6b424d?w=400",
     "title": "Language Learner",
     "companyName": "EduWorld",
     "id": 4,
-    "description": "Master a new language efficiently with Language Learner. Our app features interactive lessons, speech recognition for perfect pronunciation, and engaging vocabulary games. Choose from over 30 languages, practice with native speaker dialogues, and track your fluency level as you progress through beginner to advanced modules.",
+    "description": "Master a new language efficiently with Language Learner, the innovative app that makes learning languages fun and effective. Our platform features interactive lessons, advanced speech recognition for perfect pronunciation, and engaging vocabulary games that accelerate your learning journey.\n\nChoose from over 30 languages including Spanish, French, Japanese, Mandarin, and more. Practice with native speaker dialogues, participate in real-world conversation scenarios, and track your fluency level as you progress through beginner to advanced modules with personalized learning paths.\n\nThe app uses scientifically-proven spaced repetition techniques to help you retain vocabulary long-term. Daily challenges, achievement badges, and a supportive community of learners keep you motivated throughout your language learning adventure.",
     "size": 55,
     "reviews": 1450,
     "ratingAvg": 4.4,
@@ -72,11 +72,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1507525428034-b73a38ce3243?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHhtb3ZpZSUyMGJveHxlbnwwfDB8fHwxNjQ3NDMxMjM2&ixlib=rb-1.2.1&q=80&w=400",
-    "title": "Music Player X",
+    "image": "https://images.unsplash.com/photo-1511379938547-c1f69419868d?w=400",
+    "title": "Music Player",
     "companyName": "BeatFlow",
     "id": 5,
-    "description": "Experience music like never before with Music Player X. This modern player supports all major audio formats and features a powerful 10-band graphic equalizer with pre-sets. Organize your library with smart playlists, enjoy gapless playback, and customize the interface with beautiful themes. Streamline your listening experience.",
+    "description": "Experience music like never before with Music Player X, the modern audio player that combines powerful features with elegant design. This sophisticated player supports all major audio formats including MP3, FLAC, WAV, and AAC, delivering crystal-clear sound quality.\n\nFeatures a powerful 10-band graphic equalizer with professional presets and the ability to create custom sound profiles. Organize your library with smart playlists, enjoy gapless playback for seamless listening, and customize the interface with beautiful themes that match your style.\n\nStreamline your listening experience with intuitive gesture controls, lyrics support, and sleep timer functionality. The app also includes a built-in tag editor and supports Chromecast and AirPlay for wireless streaming to your favorite speakers.",
     "size": 35,
     "reviews": 850,
     "ratingAvg": 4.1,
@@ -90,11 +90,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1522883307523-d345c26900dd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHx3ZWF0aGVyJTIwYXBwfGVufDB8MHx8fDE2NDc0MzEyNTk&ixlib=rb-1.2.1&q=80&w=400",
-    "title": "Weather Live",
+    "image": "https://images.unsplash.com/photo-1592210454359-9043f067919b?w=400",
+    "title": "Weather Forecasting",
     "companyName": "SkyCast",
     "id": 6,
-    "description": "Get hyper-local and real-time weather updates with Weather Live. Enjoy accurate 14-day forecasts, detailed hourly breakdowns, and severe weather alerts. Features include animated radar maps, wind speed, UV index, and humidity readings. The beautiful, dynamic interface changes to reflect current conditions.",
+    "description": "Get hyper-local and real-time weather updates with Weather Live, the most accurate forecasting app available. Enjoy detailed 14-day forecasts, precise hourly breakdowns, and critical severe weather alerts that keep you prepared for any conditions.\n\nFeatures include animated radar maps showing storm movements, detailed metrics like wind speed, UV index, air quality, and humidity readings. The app uses data from multiple weather stations to provide the most reliable forecasts for your exact location.\n\nThe beautiful, dynamic interface changes to reflect current conditions with stunning weather animations. Set up multiple location tracking, receive customizable notifications, and access historical weather data. Perfect for planning your day, week, or outdoor adventures.",
     "size": 28,
     "reviews": 1900,
     "ratingAvg": 4.6,
@@ -108,11 +108,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1517849156717-3d12224d06a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxub3RlcGFkfGVufDB8MHx8fDE2NDc0MzEyODQ&ixlib=rb-1.2.1&q=80&w=400",
-    "title": "NotePad Ultra",
+    "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=400",
+    "title": "Note Pad",
     "companyName": "WriteSoft",
     "id": 7,
-    "description": "NotePad Ultra is the simplest and fastest way to capture your thoughts. It supports rich text formatting, secure cloud syncing, and features an intuitive tag and folder system for organization. Use voice-to-text input, protect sensitive notes with a PIN, and choose from multiple viewing modes, including a dark theme.",
+    "description": "NotePad Ultra is the simplest and fastest way to capture your thoughts, ideas, and important information. It supports rich text formatting, secure cloud syncing across all devices, and features an intuitive tag and folder system for perfect organization.\n\nUse voice-to-text input for hands-free note taking, protect sensitive notes with PIN or biometric security, and choose from multiple viewing modes including a comfortable dark theme for nighttime use. The powerful search function helps you find any note instantly.\n\nCollaborate with others by sharing notes, create checklists and to-do lists, and attach images or documents to your notes. Whether for personal journaling, work projects, or academic research, NotePad Ultra adapts to your needs.",
     "size": 20,
     "reviews": 650,
     "ratingAvg": 4.0,
@@ -126,11 +126,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1544078716-419b70b5ee68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHBleGVuc2UlMjB0cmFja2VyJTIwYXBwfGVufDB8MHx8fDE2NDc0MzEzMDk&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=400",
     "title": "Expense Tracker",
     "companyName": "MoneyWise",
     "id": 8,
-    "description": "Take control of your finances with Expense Tracker. Easily log daily expenses, categorize transactions, and set monthly budgets to achieve financial freedom. The app generates detailed reports, visualizes spending habits, and supports multiple currencies. Get smart alerts to prevent overspending and stay on track with savings goals.",
+    "description": "Take control of your finances with Expense Tracker, the comprehensive money management app that helps you achieve financial freedom. Easily log daily expenses, categorize transactions automatically, and set monthly budgets to stay on track with your financial goals.\n\nThe app generates detailed reports and visualizes spending habits through intuitive charts and graphs. Support for multiple currencies makes it perfect for travelers and international users. Get smart alerts to prevent overspending and receive personalized insights on where you can save money.\n\nConnect your bank accounts for automatic transaction imports, split bills with friends, scan receipts for quick entry, and export financial reports for tax purposes. Whether saving for a vacation or managing household finances, Expense Tracker simplifies money management.",
     "size": 33,
     "reviews": 2100,
     "ratingAvg": 4.3,
@@ -144,11 +144,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1440763943362-ec104193537b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHhtb2JpbGUlMjBtYXBzfGVufDB8MHx8fDE2NDc0MzEzNTg&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1524661135-423995f22d0b?w=400",
     "title": "Map Navigator",
     "companyName": "GeoTrack",
     "id": 9,
-    "description": "Map Navigator provides reliable GPS navigation with turn-by-turn voice guidance and real-time traffic updates. Download high-quality offline maps for use without an internet connection. Discover points of interest, plan multi-stop routes, and enjoy accurate estimates for driving, walking, and public transit.",
+    "description": "Map Navigator provides reliable GPS navigation with clear turn-by-turn voice guidance and real-time traffic updates that help you avoid congestion and reach your destination faster. The app uses advanced routing algorithms to find the best paths based on current conditions.\n\nDownload high-quality offline maps for use without an internet connection, perfect for traveling abroad or areas with poor signal. Discover points of interest including restaurants, gas stations, and attractions, and read reviews from other travelers.\n\nPlan multi-stop routes for efficient errands or road trips, and enjoy accurate time estimates for driving, walking, cycling, and public transit options. The app includes lane guidance, speed limit warnings, and 3D landmark views for easier navigation in unfamiliar areas.",
     "size": 65,
     "reviews": 3200,
     "ratingAvg": 4.5,
@@ -162,11 +162,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1542385108-16c68e1694f2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxyZWNpcGUlMjBhcHBzfGVufDB8MHx8fDE2NDc0MzEzODU&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=400",
     "title": "Recipe Master",
     "companyName": "FoodCraft",
     "id": 10,
-    "description": "Turn your kitchen into a culinary haven with Recipe Master. Browse thousands of recipes from around the world, complete with step-by-step cooking guides, video tutorials, and user reviews. Features include meal planning, an intelligent ingredient substitution tool, and a voice-guided cooking mode. Save your favorites and share your own creations!",
+    "description": "Turn your kitchen into a culinary haven with Recipe Master, the ultimate cooking companion. Browse thousands of recipes from around the world, complete with step-by-step cooking guides, high-quality photos, and video tutorials that make even complex dishes achievable.\n\nFeatures include intelligent meal planning for the week, an innovative ingredient substitution tool that suggests alternatives for items you don't have, and a hands-free voice-guided cooking mode. Read honest user reviews and ratings to find the best recipes.\n\nSave your favorites to custom collections, create shopping lists that sync across devices, and share your own culinary creations with the community. Filter recipes by dietary preferences including vegetarian, vegan, gluten-free, and keto. Whether you're a beginner or experienced chef, Recipe Master inspires delicious meals.",
     "size": 52,
     "reviews": 1400,
     "ratingAvg": 4.3,
@@ -180,11 +180,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1520263158019-974244f7756f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBndWlkZSUyMGFwcHxlbnwwfDB8fHwxNjQ3NDMxNDE0&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?w=400",
     "title": "Travel Guide",
     "companyName": "GoWorld",
     "id": 11,
-    "description": "Explore the world with Travel Guide, your all-in-one travel companion. Discover top destinations, read insider tips, and find the best deals on flights and hotels. Create personalized itineraries, access offline maps and currency converters, and get recommendations for local dining and attractions based on your preferences.",
+    "description": "Explore the world with Travel Guide, your all-in-one travel companion for unforgettable adventures. Discover top destinations with curated guides, read insider tips from experienced travelers, and find the best deals on flights, hotels, and vacation packages.\n\nCreate personalized itineraries with day-by-day planning tools, access detailed offline maps that work without internet, and use built-in currency converters for easy budgeting. Get recommendations for local dining, attractions, and hidden gems based on your preferences and travel style.\n\nThe app includes phrase books for multiple languages, emergency contact information, and travel safety tips. Connect with other travelers, share your experiences, and read authentic reviews. Whether planning a weekend getaway or around-the-world adventure, Travel Guide has you covered.",
     "size": 49,
     "reviews": 1700,
     "ratingAvg": 4.4,
@@ -198,11 +198,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1502691873136-22a44f77c357?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxtZWRpdGF0aW9uJTIwYXBwfGVufDB8MHx8fDE2NDc0MzE0MzY&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=400",
     "title": "Meditation App",
     "companyName": "CalmNest",
     "id": 12,
-    "description": "Find your inner peace with the Meditation App. Access hundreds of guided meditations for sleep, stress, and focus, led by expert instructors. Enjoy a library of relaxing soundscapes, ambient music, and bedtime stories to help you unwind and improve your mental well-being. Track your meditation consistency and mood.",
+    "description": "Find your inner peace with the Meditation App, your gateway to mindfulness and mental wellness. Access hundreds of guided meditations for sleep, stress relief, anxiety management, and focus improvement, all led by expert instructors with years of experience.\n\nEnjoy an extensive library of relaxing soundscapes, ambient music, and soothing bedtime stories designed to help you unwind and improve your mental well-being. The app offers programs for beginners and advanced practitioners, covering various meditation techniques.\n\nTrack your meditation consistency with detailed statistics, monitor mood changes over time, and set daily reminders to maintain your practice. Includes breathing exercises, body scan sessions, and mindful movement guides. Whether seeking better sleep, reduced stress, or greater clarity, this app supports your journey.",
     "size": 31,
     "reviews": 1300,
     "ratingAvg": 4.6,
@@ -216,11 +216,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1541963463532-d68292c34b19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxlYm9vayUyMHJlYWRlcnxlbnwwfDB8fHwxNjQ3NDMxNDYx&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794?w=400",
     "title": "E-Book Reader",
     "companyName": "ReadOcean",
     "id": 13,
-    "description": "Dive into millions of titles with E-Book Reader. Enjoy a comfortable reading experience with customizable themes, adjustable font sizes, and eye-friendly night mode. It supports all popular e-book formats, allows for easy highlighting and note-taking, and syncs your progress across all devices.",
+    "description": "Dive into millions of titles with E-Book Reader, the premium reading app that brings your digital library to life. Enjoy a comfortable reading experience with customizable themes, adjustable font sizes and styles, and an eye-friendly night mode that reduces strain during extended reading sessions.\n\nSupports all popular e-book formats including EPUB, PDF, MOBI, and more. Features easy highlighting and note-taking tools, built-in dictionary lookup, and translation capabilities. Your reading progress syncs seamlessly across all devices, so you can start on your phone and continue on your tablet.\n\nOrganize your library with collections and shelves, discover new books through personalized recommendations, and track your reading statistics including pages read and time spent. The app also includes text-to-speech functionality and supports audiobook playback for a complete reading experience.",
     "size": 40,
     "reviews": 900,
     "ratingAvg": 4.2,
@@ -234,11 +234,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1585217596043-42e5d6c5478d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxuZXdzJTIwYXBwfGVufDB8MHx8fDE2NDc0MzE0ODc&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=400",
     "title": "NewsHub",
     "companyName": "InfoStream",
     "id": 14,
-    "description": "Stay informed with NewsHub, your source for breaking news and personalized feeds from trusted global sources. Customize your feed to follow topics, regions, and journalists that matter to you. Features include a summary mode, offline reading, and video news integration for a comprehensive view of current events.",
+    "description": "Stay informed with NewsHub, your trusted source for breaking news and personalized content from respected global publications. Customize your feed to follow specific topics, regions, journalists, and publications that matter most to you, ensuring you never miss important stories.\n\nFeatures include a smart summary mode that condenses articles into key points, offline reading capability for catching up without internet, and integrated video news for comprehensive coverage. The app uses AI to reduce news bias by showing multiple perspectives on major stories.\n\nSet up notifications for breaking news in your areas of interest, save articles for later reading, and share stories easily across social platforms. Whether interested in politics, technology, sports, or entertainment, NewsHub delivers quality journalism tailored to your preferences.",
     "size": 36,
     "reviews": 2600,
     "ratingAvg": 4.3,
@@ -252,11 +252,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1542831371-29b552636746?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxhcnRpZmljaWFsJTIwaW50ZWxsaWdlbmNlJTIwY2hhdGJvdHxlbnwwfDB8fHwxNjQ3NDMxNTE4&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=400",
     "title": "AI Chat Assistant",
     "companyName": "TechHive",
     "id": 15,
-    "description": "Boost your productivity with the AI Chat Assistant, a smart tool designed for quick research, content generation, and scheduling. Ask complex questions, draft professional emails, generate code snippets, and translate languages instantly. Its advanced natural language processing makes interaction feel seamless and highly efficient.",
+    "description": "Boost your productivity with the AI Chat Assistant, a smart tool designed for quick research, content generation, scheduling, and much more. Ask complex questions and receive detailed, accurate answers instantly. The advanced AI understands context and provides human-like responses.\n\nDraft professional emails, generate creative content, write code snippets in multiple programming languages, and translate text between dozens of languages with impressive accuracy. The assistant can summarize long documents, explain complicated topics, and even help with math problems.\n\nIts advanced natural language processing makes interaction feel seamless and highly efficient. Use it for brainstorming ideas, learning new subjects, planning projects, or getting homework help. The AI continuously learns and improves, making it an invaluable tool for students, professionals, and anyone seeking instant, intelligent assistance.",
     "size": 70,
     "reviews": 5000,
     "ratingAvg": 4.8,
@@ -270,11 +270,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1537202334810-749e7b399201?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxtb2JpbGUlMjBzaG9wcGluZyUyMGFwcHxlbnwwfDB8fHwxNjQ3NDMxNTM5&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=400",
     "title": "Shopping Deals",
     "companyName": "ShopNow",
     "id": 16,
-    "description": "Never miss a bargain with Shopping Deals. This app aggregates the best discounts, coupons, and flash sales from thousands of online stores. Set personalized price alerts, compare prices across retailers, and find instant savings on everything from electronics to fashion. Save money effortlessly with smart shopping tools.",
+    "description": "Never miss a bargain with Shopping Deals, the ultimate money-saving companion. This intelligent app aggregates the best discounts, exclusive coupons, and limited-time flash sales from thousands of online stores and local retailers, putting savings at your fingertips.\n\nSet personalized price alerts for products you want and get notified instantly when prices drop. Compare prices across multiple retailers to ensure you're getting the best deal, and find instant savings on everything from electronics and fashion to home goods and groceries.\n\nThe app features barcode scanning for in-store price comparison, cashback rewards on purchases, and a browser extension for automatic coupon application. Browse curated deal collections, read product reviews, and track price history. Save money effortlessly with smart shopping tools designed for savvy consumers.",
     "size": 48,
     "reviews": 1800,
     "ratingAvg": 4.1,
@@ -288,11 +288,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1533250917019-33ddb0f0b40e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHhtb3ZpZSUyMGRpc2NvdmVyeXxlbnwwfDB8fHwxNjQ3NDMxNTY1&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1536440136628-849c177e76a1?w=400",
     "title": "Movie Box",
     "companyName": "CineWorld",
     "id": 17,
-    "description": "Your definitive source for movie and TV show discovery. Movie Box features detailed cast and crew info, user ratings, critical reviews, and trailer previews. Create personalized watchlists, get recommendations based on your viewing history, and find where to stream your favorite titles instantly. Never run out of things to watch.",
+    "description": "Your definitive source for movie and TV show discovery. Movie Box features detailed information on cast and crew, plot summaries, user ratings, professional critical reviews, and high-quality trailer previews. Explore comprehensive filmographies and learn about upcoming releases before anyone else.\n\nCreate personalized watchlists for movies and shows you want to see, get intelligent recommendations based on your viewing history and preferences, and find where to stream or rent your favorite titles across all major platforms. The app tracks which services you subscribe to for convenience.\n\nDiscover trending content, browse by genre or mood, and read in-depth analysis and trivia about your favorite films. Set reminders for theatrical releases, track what you've watched, and share your ratings and reviews with friends. Never run out of entertainment options with Movie Box's extensive database.",
     "size": 59,
     "reviews": 2300,
     "ratingAvg": 4.4,
@@ -306,11 +306,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1601594916894-c75c5a713919?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxzdG9jayUyMG1hcmtldCUyMGFwcHxlbnwwfDB8fHwxNjQ3NDMxNTk4&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=400",
     "title": "Stock Watch",
     "companyName": "FinTech Pro",
     "id": 18,
-    "description": "Stock Watch delivers real-time stock prices, comprehensive market data, and advanced financial analytics to your mobile device. Monitor your portfolio, set customizable alerts for price changes, and access professional-grade charting tools. Stay ahead of the market with news and analysis from leading financial experts.",
+    "description": "Stock Watch delivers real-time stock prices, comprehensive market data, and advanced financial analytics directly to your mobile device. Monitor your investment portfolio performance with live updates, track multiple markets globally, and make informed decisions with professional-grade tools.\n\nSet highly customizable alerts for price changes, volume spikes, and technical indicator signals. Access sophisticated charting tools with dozens of technical indicators, drawing tools, and multiple timeframes. View detailed company financials, earnings reports, and analyst ratings.\n\nStay ahead of the market with curated news and expert analysis from leading financial publications. The app supports paper trading for practice, provides educational resources for beginners, and offers portfolio performance analytics. Whether you're a day trader or long-term investor, Stock Watch provides everything needed for successful trading.",
     "size": 62,
     "reviews": 1750,
     "ratingAvg": 4.5,
@@ -324,11 +324,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1549419149-a2e66607e408?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxmaWxlJTIwbWFuYWdlciUyMGFwcHxlbnwwfDB8fHwxNjQ3NDMxNjI2&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1544396821-4dd40b938ad3?w=400",
     "title": "File Manager HD",
     "companyName": "SysTools",
     "id": 19,
-    "description": "Efficiently manage all files on your device and cloud storage with File Manager HD. It features smart file categorization, a powerful search function, and an integrated storage analyzer to identify and clear junk files. Easily compress, encrypt, and share files, ensuring your digital life is always organized and secure.",
+    "description": "Efficiently manage all files on your device and cloud storage accounts with File Manager HD, the comprehensive file organization solution. It features smart file categorization by type, a powerful search function that finds files instantly, and an integrated storage analyzer to identify and clear junk files.\n\nEasily compress files to save space, encrypt sensitive documents for security, and share files through multiple channels including email, messaging, and direct transfer. The app supports all major cloud services including Google Drive, Dropbox, and OneDrive for unified file management.\n\nBrowse files with multiple view options, perform batch operations, and use the built-in media viewer for photos, videos, and documents. Whether organizing personal files or managing work documents, File Manager HD ensures your digital life is always organized, secure, and accessible.",
     "size": 27,
     "reviews": 900,
     "ratingAvg": 4.0,
@@ -342,11 +342,11 @@
     ]
   },
   {
-    "image": "https://images.unsplash.com/photo-1620286300959-b1d6e1f0e42d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODUwMzZ8MHwxfHNlYXJjaHwxfHxxclyUyMHNjYW5uZXIlMjBhcHBzfGVufDB8MHx8fDE2NDc0MzE2NjE&ixlib=rb-1.2.1&q=80&w=400",
+    "image": "https://images.unsplash.com/photo-1617802690658-1173a812650d?w=400",
     "title": "QR Scanner Pro",
     "companyName": "ScanTools",
     "id": 20,
-    "description": "QR Scanner Pro is the fastest and most reliable QR and barcode scanner available. Automatically detect and read all types of codes, including URLs, text, contacts, and Wi-Fi information. It features a history log, flashlight support for low-light conditions, and can generate custom QR codes for sharing. Essential for daily use.",
+    "description": " QR Scanner Pro is the fastest and most reliable QR code and barcode scanner available on mobile. Automatically detect and read all types of codes including URLs, plain text, contact information, Wi-Fi credentials, and product barcodes with lightning-fast recognition technology.\n\nFeatures a comprehensive history log that stores all your scans for easy reference, flashlight support for scanning in low-light conditions, and the ability to generate custom QR codes for sharing contact info, Wi-Fi passwords, or website links. Batch scanning mode processes multiple codes quickly.\n\nThe app prioritizes your privacy with no unnecessary permissions and includes price comparison for product barcodes. Use it for contactless menus, event check-ins, coupon redemption, or connecting to Wi-Fi networks. Essential for daily use in our increasingly digital world.QR Scanner Pro is the fastest and most reliable QR code and barcode scanner available on mobile. Automatically detect and read all types of codes including URLs, plain text, contact information, Wi-Fi credentials, and product barcodes with lightning-fast recognition technology.\n\nFeatures a comprehensive history log that stores all your scans for easy reference, flashlight support for scanning in low-light conditions, and the ability to generate custom QR codes for sharing contact info, Wi-Fi passwords, or website links. Batch scanning mode processes multiple codes quickly.\n\nThe app prioritizes your privacy with no unnecessary permissions and includes price comparison for product barcodes. Use it for contactless menus, event check-ins, coupon redemption, or connecting to Wi-Fi networks. Essential for daily use in our increasingly digital world.QR Scanner Pro is the fastest and most reliable QR code and barcode scanner available on mobile. Automatically detect and read all types of codes including URLs, plain text, contact information, Wi-Fi credentials, and product barcodes with lightning-fast recognition technology.\n\nFeatures a comprehensive history log that stores all your scans for easy reference, flashlight support for scanning in low-light conditions, and the ability to generate custom QR codes for sharing contact info, Wi-Fi passwords, or website links. Batch scanning mode processes multiple codes quickly.\n\nThe app prioritizes your privacy with no unnecessary permissions and includes price comparison for product barcodes. Use it for contactless menus, event check-ins, coupon redemption, or connecting to Wi-Fi networks. Essential for daily use in our increasingly digital world.",
     "size": 18,
     "reviews": 600,
     "ratingAvg": 4.1,

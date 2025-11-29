@@ -2,7 +2,7 @@ import { Link, NavLink } from 'react-router';
 import image from '../../assets/logo.png'
 const Navbar = ({ title = "NeXtAPP" }) => {
      return (
-    <header className="bg-white shadow-sm fixed w-full z-40">
+    <header className="bg-white shadow-sm  w-full z-40 mb-8">
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
         <div className="h-16 flex items-center relative">
 
@@ -22,8 +22,8 @@ const Navbar = ({ title = "NeXtAPP" }) => {
           <p  className="text-gray-700 hover:text-blue-600 font-medium">Home</p>
           </NavLink>
             
-            <NavLink to=""><p  className="text-gray-700 hover:text-blue-600 font-medium">Apps</p></NavLink>
-            <NavLink><p  className="text-gray-700 hover:text-blue-600 font-medium">Installation</p></NavLink>
+            <NavLink to="/allapps"><p  className="text-gray-700 hover:text-blue-600 font-medium">Apps</p></NavLink>
+            <NavLink to="/installation"><p  className="text-gray-700 hover:text-blue-600 font-medium">Installation</p></NavLink>
           </nav>
 
           {/* RIGHT + HAMBURGER */}

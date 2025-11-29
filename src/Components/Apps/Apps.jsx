@@ -1,3 +1,4 @@
+import { Link } from "react-router";
 import AppTiles from "../AppTiles/AppTiles";
 
 
@@ -15,8 +16,8 @@ const Apps = ({data}) => {
                 data.slice(0,10).map(app=><AppTiles key={app.id} app={app} ></AppTiles>)
             }
             </div>
-            <div className=" flex justify-center my-1">
-                <button className="btn btn-info">Show all</button>
+            <div  className=" flex justify-center my-1">
+                <Link to={`/allapps`}><button  className="btn btn-info">Show all</button></Link>
             </div>
         </div>
     );

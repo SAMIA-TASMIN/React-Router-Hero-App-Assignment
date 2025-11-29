@@ -2,6 +2,8 @@ import { createBrowserRouter } from "react-router";
 import Root from "../Pages/Root/Root";
 import ErrorPage from "../Pages/Errorpage/ErrorPage";
 import Home from "../Pages/Home/Home";
+import AllApps from "../Pages/AllApps/AllApps";
+import AppDetaill from "../Pages/AppDetail/AppDetaill";
 
 
 export const router = createBrowserRouter([
@@ -14,6 +16,16 @@ export const router = createBrowserRouter([
             index:true,
             loader:()=>fetch('/data.json'),
             Component:Home
+        },
+        {
+          path:'/allapps',
+          loader:()=>fetch('/data.json'),
+          Component:AllApps
+        },
+        {
+          path:"/app/:appId",
+          loader:()=>fetch('/data.json'),
+          Component:AppDetaill
         }
     ]
 
