@@ -11,7 +11,7 @@ const getStoredApps = () => {
 const addToStoreDb = (id) => {
     const storedApps = getStoredApps();
     if (storedApps.includes(id)) {
-        return false; // Already exists
+        return false; 
     } else {
         storedApps.push(id);
         const data = JSON.stringify(storedApps);

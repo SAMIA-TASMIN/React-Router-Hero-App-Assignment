@@ -6,7 +6,7 @@ const Banner = () => {
      return (
     <section className="w-full bg-white">
       <div className="max-w-6xl mx-auto px-6 py-16 text-center">
-        {/* Top Text */}
+     
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900">
           We Build <span className="text-purple-600">Productive</span> Apps
         </h1>
